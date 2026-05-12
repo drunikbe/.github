@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and discussion
+    url: https://github.com/drunikbe/.github/blob/main/.github/SUPPORT.md
+    about: For "how do I…?" questions, see SUPPORT.md or open a discussion in the relevant repository.
+  - name: Security vulnerability
+    url: https://github.com/drunikbe/.github/blob/main/.github/SECURITY.md
+    about: Do not open a public issue — see SECURITY.md for the disclosure process.
+  - name: Commercial inquiries
+    url: mailto:hello@drunik.be
+    about: For integrations, paid support, or other commercial questions.
