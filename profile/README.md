@@ -1,14 +1,14 @@
 # DRUNIK BV
 
-Software development, security, and IT — based in Belgium.
+Independent software studio based in Belgium. We work on aerospace tooling, mobile games, and developer infrastructure.
 
-## Projects
+## What we work on
 
-### Mobile Games
-Small, polished arcade games built with Godot 4.6.
+### Aerospace
+A satellite re-entry prediction platform — orbital decay forecasting that helps research teams plan deorbit timelines and budget grant spending around access to orbit. ML models, data pipelines, and a frontend for mission planners.
 
-- **[games-template](https://github.com/drunikbe/games-template)** — Shared foundation for all games (menus, ads, compliance, analytics)
-- **[snake](https://github.com/drunikbe/snake)** — Andrei's Snake (in development)
+### Mobile games
+Small, polished arcade games built with Godot 4.6, starting with a Snake reimagining. The games share a common foundation that handles menus, ads, compliance, and analytics across releases.
 
-### Tools
-- **[godot-mcp](https://github.com/drunikbe/godot-mcp)** — MCP server for AI-assisted Godot development
+### Developer tooling
+AI-assisted Godot development through the Model Context Protocol, plus the internal infrastructure — architecture, runbooks, IaC, ops — that holds the rest together.
