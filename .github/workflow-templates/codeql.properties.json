@@ -1,0 +1,6 @@
+{
+  "name": "CodeQL Analysis (DRUNIK)",
+  "description": "Scan code for vulnerabilities using GitHub CodeQL. DRUNIK defaults: PR + weekly schedule, configurable language matrix.",
+  "iconName": "codeql",
+  "categories": ["Code scanning", "Security"]
+}
