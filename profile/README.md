@@ -1,10 +1,17 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drunikbe/.github/main/brand/logo-clean-white.png">
+    <img src="https://raw.githubusercontent.com/drunikbe/.github/main/brand/logo-clean-black.png" alt="DRUNIK" width="280">
+  </picture>
+</p>
+
 # DRUNIK BV
 
 Independent software studio based in Belgium. We work on aerospace tooling, mobile games, and developer infrastructure.
 
 ## What we work on
 
-### Aerospace
+### [descent.space](https://descent.space)
 A satellite re-entry prediction platform — orbital decay forecasting that helps research teams plan deorbit timelines and budget grant spending around access to orbit. ML models, data pipelines, and a frontend for mission planners.
 
 ### Mobile games
