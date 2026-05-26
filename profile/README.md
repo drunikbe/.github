@@ -32,7 +32,7 @@ AI-assisted Godot development through the Model Context Protocol, plus the inter
 - **LinkedIn**: [linkedin.com/company/drunik](https://www.linkedin.com/company/drunik)
 - **General**: [hello@drunik.be](mailto:hello@drunik.be)
 - **Security**: [security@drunik.be](mailto:security@drunik.be) — see [SECURITY.md](https://github.com/drunikbe/.github/blob/main/.github/SECURITY.md)
-- **Conduct**: [conduct@drunik.be](mailto:conduct@drunik.be) — see [CODE_OF_CONDUCT.md](https://github.com/drunikbe/.github/blob/main/.github/CODE_OF_CONDUCT.md)
+- **Merit**: [conduct@drunik.be](mailto:conduct@drunik.be) — see [CODE_OF_CONDUCT.md](https://github.com/drunikbe/.github/blob/main/.github/CODE_OF_CONDUCT.md)
 
 ---
 

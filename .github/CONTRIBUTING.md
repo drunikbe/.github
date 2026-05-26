@@ -38,9 +38,9 @@ Follow the conventions of the repository you're contributing to. If a project us
 
 Unless a repository specifies otherwise, contributions are accepted under the same licence as the project. By submitting a pull request, you confirm that you have the right to submit the work under that licence.
 
-## Code of conduct
+## Code of Merit
 
-All contributors are expected to follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
+All contributors are expected to follow our [Code of Merit](./CODE_OF_CONDUCT.md).
 
 ## Getting help
 
