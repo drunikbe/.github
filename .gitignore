@@ -1,2 +1,4 @@
 # Local Claude Code runtime/state (not part of the repo)
 .claude/
+# Per-session git worktrees (see AGENTS.md)
+.worktrees/
